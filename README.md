@@ -10,12 +10,12 @@
 - MySQL 8.0.46
 - База данных: Sakila
 
-## Структура портфолио
+# Структура портфолио
 
-sql-portfolio/
-  01. Schema/ # Схема БД 
-  02. Queries/
-    02.1 Basic/ # Базовые SELECT, WHERE, ORDER BY
-    02.2 Aggregations/ # GROUP BY, HAVING, агрегатные функции
-    02.3 Advanced/ # CTE, оконные функции, EXISTS, LAG/LEAD
-  03.documentation/ # Описание запросов
+- sql-portfolio/
+  - 01. Schema/ # Схема БД 
+  - 02. Queries/
+      - 02.1 Basic/ # Базовые SELECT, WHERE, ORDER BY
+      - 02.2 Aggregations/ # GROUP BY, HAVING, агрегатные функции
+      - 02.3 Advanced/ # CTE, оконные функции, EXISTS, LAG/LEAD
+  - 03. Documentation/ # Описание запросов
