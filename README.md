@@ -13,9 +13,9 @@
 ## 📂 Структура портфолио
 
 sql-portfolio/
-├── 01_schema/ # Схема БД (если потребуется)
-├── 02_queries/
-│ ├── basic/ # Базовые SELECT, WHERE, ORDER BY
-│ ├── aggregations/ # GROUP BY, HAVING, агрегатные функции
-│ └── advanced/ # CTE, оконные функции, EXISTS, LAG/LEAD
-└── 03_documentation/ # Описание запросов
+01_schema/ # Схема БД (если потребуется)
+02_queries/
+basic/ # Базовые SELECT, WHERE, ORDER BY
+aggregations/ # GROUP BY, HAVING, агрегатные функции
+advanced/ # CTE, оконные функции, EXISTS, LAG/LEAD
+03_documentation/ # Описание запросов
